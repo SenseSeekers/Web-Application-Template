@@ -1,0 +1,50 @@
+/*-----------------------------------*/
+.walet_logo_section{
+	background:#555;
+	height:100vh;
+}
+.walet_login{
+	margin-top:300px;
+}
+.menu_section{
+	border-bottom:2px solid #555;
+}
+.menu_item{
+	font-size:18px;
+}
+.accounce{
+	color:#987;
+	font-weight:bold;
+	font-size:2.4em;
+	text-align:;
+	margin-top:20px;
+	margin-bottom:40px;
+}
+.add_accounce{
+	color:#987;
+	font-weight:bold;
+	font-size:2.4em;
+	margin-bottom:40px;
+}
+.page_link{
+	color:#601;
+	font-weight:bold;
+	font-size:16px;
+	text-align:right;
+}
+.Report_item{
+
+	color:#987;
+	font-weight:bold;
+	font-size:2.4em;
+	margin-top:5px;
+	margin-bottom:20px;
+	
+}
+.user_option{
+	background: #443;color:#fff;text-align: center;font-weight: bold;
+}
+/*-----------------------------------*/
+.left_menu_container{
+	background:#434;
+}
